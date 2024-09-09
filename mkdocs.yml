@@ -3,10 +3,12 @@ site_url: https://kotlin-for-frc.github.io/
 
 extra_css:
   - stylesheets/extra.css
+
+
   
 nav:
   - Home:
-    - home.md
+    - index.md
   - Getting Started:
     - getting-started.md
     - Migration Guide: migrating.md
@@ -17,3 +19,5 @@ theme:
     scheme: slate
     primary: custom
     accent: custom
+  logo: img/k4frc.png
+  favicon: img/k4frc.png
