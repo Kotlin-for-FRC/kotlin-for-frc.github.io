@@ -1,0 +1,4 @@
+site_name: Kotlin for FRC
+site_url: https://kotlin-for-frc.github.io/
+theme:
+  name: material
