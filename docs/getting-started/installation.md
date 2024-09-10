@@ -1,6 +1,6 @@
 # Installing Tools
 
-Regardless of your language, you need to make sure you install the [Game Tools](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html) and [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html), selecting "Everything" and "Skip and don't use VS Code", VS Code is not the best tool for developing with Kotlin, that title lies firmly with IntelliJ, which we will discuss next.
+Regardless of your language, you need to make sure you install the [Game Tools](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html) (Windows only) and [WPILib](https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/wpilib-setup.html), selecting "Everything" and "Skip and don't use VS Code", VS Code is not the best tool for developing with Kotlin, that title lies firmly with IntelliJ, which we will discuss next.
 
 ## IntelliJ
 
