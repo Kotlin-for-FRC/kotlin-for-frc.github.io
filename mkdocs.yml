@@ -10,7 +10,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - Installing Tools: getting-started/installation.md
-    - Why Kotlin: getting-started/why-kotlin.md
+    - Why Kotlin?: getting-started/why-kotlin.md
   - Developing with Kotlin:
     - Migrating from Java: developing/migrating.md
 
@@ -22,3 +22,13 @@ theme:
     accent: custom
   logo: img/k4frc.png
   favicon: img/k4frc.png
+
+markdown_extensions:
+  - pymdownx.highlight:
+      anchor_linenums: true
+      auto_title: false
+  - pymdownx.superfences
+  - pymdownx.inlinehilite
+  - pymdownx.tabbed:
+      alternate_style: true
+  - attr_list
