@@ -12,7 +12,6 @@ nav:
     - Installing Tools: 
       - Installing WPILib: getting-started/installation/wpilib.md
       - Installing IntelliJ IDEA: getting-started/installation/intellij.md
-      - Installing FRC IntelliJ Plugin: getting-started/installation/frc-plugin.md
       - Installing the FRC Game Tools (Windows Only): https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html
     - Why Kotlin: getting-started/why-kotlin.md
   - Developing with Kotlin:
