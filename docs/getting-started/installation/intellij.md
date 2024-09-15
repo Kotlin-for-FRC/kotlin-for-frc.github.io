@@ -14,4 +14,4 @@ Some of the features provided by the WPILib VSCode Plugin are provided via plugi
 ![Plugin Page](plugins.png)
 
 ## Creating a new FRC Project
-Open the project creation dialog by selecting `File > New > Project`. In the `Generators` section, choose `FRC Robot Project`. Configuring your robot project using the FRC plugin is similar to the WPILib VSCode Plugin. Refer to [the documentation](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/creating-robot-program.html) for details on configuration options. 
+Open the project creation dialog by selecting `File > New > Project`. In the `Generators` section, choose `FRC Robot Project`. Configuring your robot project using the FRC plugin is similar to the WPILib VSCode Plugin. Refer to [the WPILib documentation](https://docs.wpilib.org/en/stable/docs/software/vscode-overview/creating-robot-program.html) for details on configuration options. 
