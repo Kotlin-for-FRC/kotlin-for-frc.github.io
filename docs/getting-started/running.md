@@ -33,3 +33,11 @@ There are two ways of running the `deploy` command:
 
 3. Click on the run button in the top right corner of the IntelliJ window to deploy your robot
    program to the robot.
+
+## Simulating Robot Code
+
+FRC code made with kotlin can be simulated on your computer, just like Java, Python, or C++ code can. To do so,
+either follow the "Deploying via IntelliJ" or "Deploying manually via the command line" instructions above, but replace the "deploy"
+keyword with the "simulateJava" keyword(I.E `./gradlew simulateJava`).
+
+Note that in order for subsystems be properly simulated, you must use WPILib's [physics simulation API](https://docs.wpilib.org/en/stable/docs/software/wpilib-tools/robot-simulation/physics-sim.html).
