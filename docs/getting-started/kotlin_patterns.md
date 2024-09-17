@@ -28,3 +28,4 @@ val encoder: Encoder = Encoder(0, 1).also {
     Shuffleboard.getTab("Encoder").addDouble("Rate") { it.getRate }
     println("New encoder initialized")
 }
+```
