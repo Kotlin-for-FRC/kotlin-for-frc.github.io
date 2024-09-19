@@ -10,7 +10,7 @@ nav:
   - Home: index.md
   - Getting Started:
     - Installing Tools: getting-started/installation.md
-    - Why Kotlin: getting-started/why-kotlin.md
+    - Why Kotlin: getting-started/why_kotlin.md
   - Developing with Kotlin:
     - Migrating from Java: developing/migrating.md
 
