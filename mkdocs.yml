@@ -9,7 +9,7 @@ extra_css:
 nav:
   - Home: index.md
   - Getting Started:
-    - Installing Tools: 
+    - Installing Tools:
       - Installing WPILib: getting-started/installation/wpilib.md
       - Installing IntelliJ IDEA: getting-started/installation/intellij.md
       - Installing the FRC Game Tools (Windows Only): https://docs.wpilib.org/en/stable/docs/zero-to-robot/step-2/frc-game-tools.html
@@ -28,4 +28,3 @@ theme:
   favicon: img/k4frc.png
   features:
     - navigation.expand
-
