@@ -19,7 +19,7 @@ plugins {
 ### Add Kotlin Usage Reporting
 
 To help the FRC community keep track of how many teams use Kotlin as a programming language, we recommend adding the
-following lines to your `Robot.java` constructor
+following lines to your `Robot` constructor
 
 ```java
 HAL.report(tResourceType.kResourceType_Language, tInstances.kLanguage_Kotlin);
