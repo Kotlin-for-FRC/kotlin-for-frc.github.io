@@ -1,5 +1,5 @@
 # IntelliJ IDEA
-Rather than VS Code, when developing with Kotlin the reccomended IDE is IntelliJ. IntelliJ offers much better autocomplete and syntax highlighting when using Kotlin and Java together (which we always are, as WPILib's JVM portion is written in Java)
+Rather than VS Code, when developing with Kotlin the recommended IDE is IntelliJ. IntelliJ offers much better autocomplete and syntax highlighting when using Kotlin and Java together (which we always are, as WPILib's JVM portion is written in Java)
 
 There are two versions of IntelliJ, "Community" and "Ultimate". The "Community" version is free, and is therefore the most easily accessible option, but if you already are paying for IntelliJ Ultimate (or are using JetBrains' student license to get it for free), this is perfectly fine and it will not be any different from the the "Community" edition. JetBrains has a good article on the installation process which can be found [HERE](https://www.jetbrains.com/help/idea/installation-guide.html), just make sure you download IntelliJ Community if you're not intending on paying to use it.
 
