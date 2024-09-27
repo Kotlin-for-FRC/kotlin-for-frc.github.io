@@ -14,6 +14,7 @@ nav:
     - Running your robot program: getting-started/running.md
   - Developing with Kotlin:
     - Migrating from Java: developing/migrating.md
+    - Best Practices: developing/best-practices.md
 
 theme:
   name: material
